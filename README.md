@@ -86,3 +86,9 @@ in the terminal in vscode, type
 This command tells the terminal to use asm.py file to compile multiplication_test.asm file and store the machine code generated into memory.list
 
 11. If the simpleLang compiler works correctly, it will generate the assembly code which is executed by the asm.py file correctly and store the machine code in memory.list which can be checked after execution of the command.
+
+## testing
+[![simpleLang Compiler Demo](http://img.youtube.com/vi/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/0.jpg)](http://www.youtube.com/watch?v=1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT)
+
+This compiler translates code written in the simpleLang programming language into assembly code compatible with an 8-bit CPU. It's designed to work with the assembler found in the [lightcode/8bit-computer](https://github.com/lightcode/8bit-computer) repository.
+
