@@ -1,5 +1,8 @@
 ## simpleLang-compiler-for-8Bit-CPU-Assembler
 
+link for presentation-->
+https://docs.google.com/presentation/d/15RqfEbJu9umYdAtaGbZ99NtFW1nazJHOEVTUZwa0HhI/edit?usp=drive_link
+
 This is the documentation of the development and the implementation of my compiler(simpleLang) which converts the code written in a high level language called simpleLang into an assembly code which is compatible with the assembler program created for the 8bit CPU by the repository creator of https://github.com/lightcode/8bit-computer
 
 ## The process of the development includes
