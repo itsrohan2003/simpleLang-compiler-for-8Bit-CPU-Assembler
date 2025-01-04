@@ -88,8 +88,7 @@ This command tells the terminal to use asm.py file to compile multiplication_tes
 11. If the simpleLang compiler works correctly, it will generate the assembly code which is executed by the asm.py file correctly and store the machine code in memory.list which can be checked after execution of the command.
 
 ## testing
-
-[![click on this link for the test](https://drive.google.com/file/d/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/view?usp=drive_link)]
+[![simpleLang Compiler Demo](https://drive.google.com/file/d/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/view?usp=drive_link)]
 
 
 
