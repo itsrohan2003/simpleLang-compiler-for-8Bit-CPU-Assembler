@@ -63,15 +63,15 @@ git clone https://github.com/itsrohan2003/simpleLang-compiler-for-8Bit-CPU-Assem
 g++ lexer.cpp parser.cpp codegenerator.cpp main.cpp -o simple_compiler
 This is a code to link the lexer, parser, code generator and the main.cpp file together to form an executable file called simple_compiler
 
-5.After successfull compilation, a simple_lang executable file is created in the simpleLang folder itself
+5. After successfull compilation, a simple_lang executable file is created in the simpleLang folder itself
 
-6 Type ./simple_compiler
+6. Type ./simple_compiler
 
-7 the terminal will prompt you to type you simpleLang code
+7. the terminal will prompt you to type you simpleLang code
 
-8 write the code (for example int a = 1092;)
+8. write the code (for example int a = 1092;)
 
-9 sample input and output 
+9. sample input and output 
 
 Enter code in simpleLang:
 int a =1092;
