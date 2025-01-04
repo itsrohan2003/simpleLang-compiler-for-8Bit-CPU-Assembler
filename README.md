@@ -88,7 +88,8 @@ This command tells the terminal to use asm.py file to compile multiplication_tes
 11. If the simpleLang compiler works correctly, it will generate the assembly code which is executed by the asm.py file correctly and store the machine code in memory.list which can be checked after execution of the command.
 
 ## testing
-[![simpleLang Compiler Demo](http://img.youtube.com/vi/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/0.jpg)](https://drive.google.com/file/d/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/view?usp=drive_link)
 
-This compiler translates code written in the simpleLang programming language into assembly code compatible with an 8-bit CPU. It's designed to work with the assembler found in the [lightcode/8bit-computer](https://github.com/lightcode/8bit-computer) repository.
+[![click on this link for the test](https://drive.google.com/file/d/1v-zGGsbsymZt6tIIlY8C7OSMpHQjBXoT/view?usp=drive_link)]
+
+
 
